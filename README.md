@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alexis Perez
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning typescript.
-- 💞️ I’m looking to collaborate on proyects open source
 - 📫 How to reach me: alexisperez4@gmail.com
 
 <!---
